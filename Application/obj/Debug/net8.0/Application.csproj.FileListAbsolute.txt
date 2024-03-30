@@ -1,0 +1,16 @@
+F:\CleanArchitectureMediatRCQRS\Application\bin\Debug\net8.0\Application.deps.json
+F:\CleanArchitectureMediatRCQRS\Application\bin\Debug\net8.0\Application.dll
+F:\CleanArchitectureMediatRCQRS\Application\bin\Debug\net8.0\Application.pdb
+F:\CleanArchitectureMediatRCQRS\Application\bin\Debug\net8.0\Domain.dll
+F:\CleanArchitectureMediatRCQRS\Application\bin\Debug\net8.0\Domain.pdb
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.sourcelink.json
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.dll
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\refint\Application.dll
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\Application.pdb
+F:\CleanArchitectureMediatRCQRS\Application\obj\Debug\net8.0\ref\Application.dll

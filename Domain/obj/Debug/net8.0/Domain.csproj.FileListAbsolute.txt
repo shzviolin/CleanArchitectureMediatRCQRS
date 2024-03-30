@@ -1,0 +1,12 @@
+F:\CleanArchitectureMediatRCQRS\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\CleanArchitectureMediatRCQRS\Domain\bin\Debug\net8.0\Domain.dll
+F:\CleanArchitectureMediatRCQRS\Domain\bin\Debug\net8.0\Domain.pdb
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.dll
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\Domain.pdb
+F:\CleanArchitectureMediatRCQRS\Domain\obj\Debug\net8.0\ref\Domain.dll
