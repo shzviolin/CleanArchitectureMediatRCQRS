@@ -1,9 +1,10 @@
-﻿using Application.Common.DTOs;
+﻿using Application.DTOs;
 using Domain.Entities;
 
-namespace Application.Common.Interfaces
+
+namespace Application.Services
 {
-    public interface IEmployee
+    public interface IEmployeeService
     {
         Task<ServiceResponse> AddAsync(Employee employee);
         Task<ServiceResponse> UpdateAsync(Employee employee);
