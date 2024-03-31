@@ -16,6 +16,9 @@ namespace Infrastructure.Implementations
         }
         public async Task<ServiceResponse> AddAsync(Domain.Entities.Employee employee)
         {
+            var check = await _appDbContext.Employees.FirstOrDefaultAsync(x => x.Name.ToLower() == employee.Name.ToLower());
+            if (check != null)
+                return new ServiceResponse(false, "User already exist");
             await _appDbContext.Employees.AddAsync(employee);
             await SaveChangesAsync();
             return new ServiceResponse(true, "Added");
