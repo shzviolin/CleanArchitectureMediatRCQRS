@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2zHsS60QAuAVvNzvWcUE98pSsyNeaLym5xCZX2v+NKFx73eitm4UxqAuyhWO/tGpbp47JDB+zPA/qC0yfyuCBw==",
+  "dgSpecHash": "6xXVcIs9YcpYyhwacXR7Q1OQJ62LvcLj1ZyB3eKGbC0jyLbw2oORzN3Ilrm7m1TzRLeKtdwBBbG2poiPPE9MVw==",
   "success": true,
   "projectFilePath": "F:\\CleanArchitectureMediatRCQRS\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

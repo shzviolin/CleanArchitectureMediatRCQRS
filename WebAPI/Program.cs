@@ -1,6 +1,5 @@
-using Application.Interfaces;
 using Infrastructure.Data;
-using Infrastructure.Implementations;
+using Infrastructure.Handlers.EmployeeHandler;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Net.Http.Headers;
 
@@ -18,7 +17,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IEmployee, Employee>();
+builder.Services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetEmployeeListHandler).Assembly));
 
 var app = builder.Build();
 

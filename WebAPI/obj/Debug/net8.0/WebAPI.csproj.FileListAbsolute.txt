@@ -141,3 +141,5 @@ F:\CleanArchitectureMediatRCQRS\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
 F:\CleanArchitectureMediatRCQRS\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 F:\CleanArchitectureMediatRCQRS\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 F:\CleanArchitectureMediatRCQRS\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+F:\CleanArchitectureMediatRCQRS\WebAPI\bin\Debug\net8.0\MediatR.dll
+F:\CleanArchitectureMediatRCQRS\WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
